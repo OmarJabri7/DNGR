@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "550561692793",
+    "project_id": "ramosa-apps",
+    "storage_bucket": "ramosa-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550561692793:android:5bf6be6449b19c02fe28a8",
+        "android_client_info": {
+          "package_name": "com.example.ramosa_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550561692793-ode7l4b01457j1ulst5mli0meqcusbea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlYnxXYwsnkBt2_Y2Spd4xnLOJfXWIhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550561692793-ode7l4b01457j1ulst5mli0meqcusbea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550561692793-ujid79tcrp7tl0e5i7u0c1fd4lgup86i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ramosaApps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
